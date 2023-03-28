@@ -1,4 +1,4 @@
---Inserting the values into table using the key insert into
+--Inserting the values into table using the key (insert into table-name)
 create table empl
 (
 emp_id int,
